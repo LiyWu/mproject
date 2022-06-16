@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-16T19:39:35 AEST" name="TestSuite" finished-at="2022-06-16T19:39:56 AEST" duration-ms="21066">
+    <groups>
+    </groups>
+    <test started-at="2022-06-16T19:39:35 AEST" name="SeleniumDemo" finished-at="2022-06-16T19:39:56 AEST" duration-ms="21066">
+      <class name="com.simpleL.mproject.ExpediaDemo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.simpleL.mproject.ExpediaDemo@51931956]" started-at="2022-06-16T19:39:35 AEST" name="setUp" finished-at="2022-06-16T19:39:40 AEST" duration-ms="4355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:com.simpleL.mproject.ExpediaDemo@51931956]" started-at="2022-06-16T19:39:40 AEST" name="test" finished-at="2022-06-16T19:39:55 AEST" duration-ms="15771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.simpleL.mproject.ExpediaDemo@51931956]" started-at="2022-06-16T19:39:55 AEST" name="tearDown" finished-at="2022-06-16T19:39:56 AEST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.simpleL.mproject.ExpediaDemo -->
+    </test> <!-- SeleniumDemo -->
+  </suite> <!-- TestSuite -->
+</testng-results>
